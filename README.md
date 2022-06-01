@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! 👋, Soy Analía</h1>
-<h3 align="center">Desarrolladora Front-End situada en Buenos Aires, Argentina</h3>
+<h1>¡Hola! 👋, Soy Analía</h1>
+<h3>Desarrolladora Front-End situada en Buenos Aires, Argentina</h3>
 
 - 🌱 Actualmente estoy cursando: **Fullstack Python en Codo a Codo**
 
